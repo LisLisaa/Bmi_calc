@@ -34,7 +34,7 @@ class AgeWeight extends StatelessWidget {
                       Text(
                         age3.toString(),
                         style: const TextStyle(
-                          fontSize: 45,
+                          // fontSize: 45,
                           color: Colors.white,
                         ),
                       ),
